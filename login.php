@@ -203,34 +203,8 @@ if (isset($_POST['login'])) {
         </form>
 
 
-        <!-- Demo Accounts -->
-        <hr>
 
-        <small>
-            <b>Admin:</b>
-            admin@gmail.com / admin123
-        </small>
-
-        <br>
-
-        <small>
-            <b>Supplier:</b>
-            supplier@gmail.com / 123456
-        </small>
-
-        <br>
-
-        <small>
-            <b>Distributor:</b>
-            distributor@gmail.com / 123456
-        </small>
-
-        <br>
-
-        <small>
-            <b>Shop:</b>
-            shop@gmail.com / 123456
-        </small>
+      
 
     </div>
 
